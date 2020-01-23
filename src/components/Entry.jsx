@@ -9,7 +9,7 @@ function Entry(fromApp) {
         </span>
         <span>{fromApp.name}</span>
       </dt>
-      <dd>{fromApp.meaning}</dd>
+      <dd>{fromApp.description}</dd>
     </div>
   );
 }
